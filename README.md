@@ -11,4 +11,6 @@ pgm image format rendering with TypeScript, Html Canvas
    - Reading and Rendering - PGM and PBM images
        - https://www.codeproject.com/Articles/31742/Reading-and-Rendering-PGM-and-PBM-images
 
+- ScreenShot
+   - ![screenshot](https://github.com/jjuiddong/PGM-Render/blob/main/Doc/screenshot.jpg?raw=true)
 
